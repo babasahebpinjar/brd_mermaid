@@ -16,10 +16,8 @@ This Streamlit app allows you to convert **natural language discussions** (such 
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/your-username/mermaid-agent-app.git
 cd mermaid-agent-app
-
 
 ### 2. Install Dependencies
 
@@ -42,7 +40,7 @@ Then open the URL shown in your terminal (usually http://localhost:8501
 
 
 
-Example input
+### Example input
 
 Priya (BA): Can you describe how appointments are currently booked?
 
@@ -53,6 +51,6 @@ Priya: Would you like to send notifications to patients?
 Dr. Sharma: Yes, via SMS or email, especially for confirmations or delays...
 
 
-Follow-up Prompt (optional):
+### Follow-up Prompt (optional):
 
 Add a decision node for if the doctor is unavailable.
